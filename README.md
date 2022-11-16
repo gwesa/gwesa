@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Go Programming Language
 - 🌱 Working as Software Developer using Laravel Framework, and GoLang
 - 📫 How to reach me 
+- FootBall/Soccer is My second lovely food as usual Green And Yellow->White and Blues
 
 <!---
 gwesa/gwesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
